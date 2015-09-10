@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "bitcoin-address": {
+      "version": "0.3.0",
+      "dependencies": {
+        "int": {
+          "version": "0.1.1"
+        }
+      }
+    }
+  }
+}
